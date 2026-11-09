@@ -3,6 +3,8 @@ Welcome to the Amazon Silk Plugin for Leaflet. [CLICK HERE](https://warrenwoodho
 
 Plugin by Warren Woodhouse.
 
+[CLICK HERE](#installation) to install.
+
 &copy;2026-present Warren Woodhouse.
 
 Here, you can find installation instructions and documentations for implementing this useful plugin for making your map pages accessible on WebKit browsers and on the Amazon Silk browser on Fire TV.
