@@ -27,6 +27,14 @@ It replaces the mouse cursor functions to the API infrastructure controls of the
 The controls function below includes the necessary data that needs to be added to your map before using the plugin.
 
 # Installation
+## NPM Install
+I’ll add it later as I’m working on it
+
+## Git Clone Install
+```
+git clone https://github.com/warrenwoodhouse/amazonsilkforleaflet.git
+```
+
 ## This script line goes in the Head Section
 ```
 <!-- Amazon Silk CSS -->
