@@ -28,7 +28,11 @@ The controls function below includes the necessary data that needs to be added t
 
 # Installation
 ## NPM Install
-I’ll add it later as I’m working on it
+```
+npm install @warrenwoodhouse/amazonsilkforleaflet
+```
+
+Alternatively, you can use the Package File found [here](https://github.com/warrenwoodhouse/amazonsilkforleaflet).
 
 ## Git Clone Install
 ```
@@ -113,6 +117,10 @@ window.addEventListener('mouseup', function() {
 If you run into any issues, please [CLICK HERE](https://github.com/warrenwoodhouse/forums/issues/new?labels=bug,maps,plugins&title=Bug%20found%20-%20Amazon%20Silk%20Plugin%20for%20Leaflet) to create a New Issue Ticket or [CLICK HERE](https://github.com/warrenwoodhouse/forums/issues) to find solutions.
 
 # Changelog
+* 17th November 2026 at 10:30 am: Updated the installation guide, created Discussions, created an NPM Package, created a Docker Package and added the section titled “Copyright”
 * 9th November 2026 at 11:56 am: Moved my plugin to its own repository
 * 8th November 2026 at 8:55 am: Updated the installation guide
 * 1st November 2026 at 8:52 am: Created plugin
+
+# Copyright
+&copy;2026-present [Warren Woodhouse](https://github.com/warrenwoodhouse). Amazon, Amazon wordmarks, Amazon Silk wordmarks along with their API code are registered trademarks of [Amazon, Inc.](https://www.amazon.com/), used under license through the CC-BY-SA 3.0 License.
