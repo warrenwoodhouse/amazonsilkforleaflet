@@ -9,12 +9,17 @@
   "sideEffects": false,
   "author": "Warren Woodhouse",
   "license": "LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warrenwoodhouse/amazonsilkforleaflet.git"
+  },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/@warrenwoodhouse"
   },
   "scripts": {
     "build": "rolldown --config",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "deploy": "npm publish"
   },
   "peerDependencies": {
     "leaflet": "^2.0.0-beta.1"
