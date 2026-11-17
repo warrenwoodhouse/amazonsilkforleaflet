@@ -1,13 +1,17 @@
 {
-  "name": "amazonsilkforleaflet",
+  "name": "@warrenwoodhouse/amazonsilkforleaflet",
   "version": "1.0.9",
   "description": "Plugin for adding Amazon Silk compatibility functions.",
+  "main": "plugin.js",
   "type": "module",
   "exports": "./plugin.js",
   "files": ["", ""],
   "sideEffects": false,
   "author": "Warren Woodhouse",
   "license": "LICENSE.md",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "build": "rolldown --config",
     "prepublishOnly": "npm run build"
